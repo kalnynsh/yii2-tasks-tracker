@@ -1,0 +1,10 @@
+I WANT TO LOGIN SUCCESSFULLY TEST
+
+I am on page(url::to route '/site/login')" 
+I click 'Login' 
+I fill field 'username'," 'david' 
+I fill field 'password'," 'qwerty' 
+I click 'Sign in' 
+I see 'Hello"," david' 
+I see in current url '/'
+

@@ -1,0 +1,9 @@
+I WANT TO INDEX PAGE TEST
+
+I am on page(url::to route '/site/index')" 
+I see 'D`task tracker' 
+I see link 'About' 
+I click 'About' 
+I wait "2" 
+I see 'About'
+

@@ -1,0 +1,31 @@
+<?php
+return [
+    [
+        'id' => 1,
+        'title' => 'Reintermediate front-end web services',
+        'project_id' => 2,
+        'assignee_id' => 11,
+        'teamlead_id' => 2,
+        'start' => '2018-06-20 10:00:00',
+        'deadline' => '2018-07-20 10:00:00',
+        'end' => null,
+        'status' => '10',
+        'description' => 'Energize compelling paradigms. Start new level web services. Search new paradigms.',
+        'created_at' => '2018-06-19 19:45:48',
+        'updated_at' => '2018-06-26 19:45:52',
+    ],
+    [
+        'id' => 2,
+        'title' => 'Innovate B2C platforms',
+        'project_id' => 2,
+        'assignee_id' => 10,
+        'teamlead_id' => 2,
+        'start' => '2018-06-20 10:00:00',
+        'deadline' => '2018-08-10 10:00:00',
+        'end' => null,
+        'status' => '10',
+        'description' => 'Unleash user-centric relationships. New relationships. Invent some new.',
+        'created_at' => '2018-06-19 19:45:48',
+        'updated_at' => '2018-06-26 19:45:52',
+    ],
+];
